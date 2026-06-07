@@ -17,7 +17,7 @@ import fitz
 import numpy as np
 
 
-FONT_PATH = str(Path(__file__).parent.parent / "app" / "resources" / "DejaVuSans.ttf")
+FONT_PATH = str(Path(__file__).parent.parent / "resources" / "DejaVuSans.ttf")
 FONT_NAME = "DejaVu"
 
 

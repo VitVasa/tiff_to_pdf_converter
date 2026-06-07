@@ -13,7 +13,7 @@ from pathlib import Path
 import fitz
 
 
-FONTS_DIR = Path(__file__).parent.parent / "app" / "resources"
+FONTS_DIR = Path(__file__).parent.parent / "resources"
 XMP_PATH  = FONTS_DIR / "pdfa_xmp.xml"
 ICC_PATH  = FONTS_DIR / "sRGB.icc"
 
