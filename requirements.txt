@@ -1,0 +1,19 @@
+# OCR
+chandra-ocr[hf]
+easyocr
+
+# PDF
+pymupdf
+pikepdf
+
+# Изображения
+pillow
+opencv-python-headless
+numpy
+
+# UI
+PyQt6
+
+# Системные утилиты (устанавливаются отдельно, см. setup.sh / setup.bat)
+# qpdf
+# fonts-dejavu
